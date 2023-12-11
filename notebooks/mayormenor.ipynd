@@ -1,0 +1,12 @@
+número= float(input("escribe un número entero"))
+número2= float(input("escribe otro número entero"))
+print(número>número2)
+if número>número2:
+    print("el primer número es mayor")
+else:
+    print("el segundo número es mayor")
+print(número<número2)
+if número<número2:
+    print("el primer número es mayor")
+else:
+    print("el segundo número es mayor")
