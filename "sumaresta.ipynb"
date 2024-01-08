@@ -1,19 +1,8 @@
 número1= float(input("escribe un número entero"))
 número2= float(input("escribe otro número entero"))
-print(número>número2)
+print(número1>número2)
 if número1>número2:
-    print("el p")
-else:
-    print("el segundo número es mayor")
-print(número<número2)
-if número<número2:
-    print("el primer número es mayor")
-else:
-    print("el segundo número es mayor")
-
-    Numeroentero1 = float (input("Escribe un numero entero"))
-Numeroentero2 = float (input("Escribe otro numero entero"))
-if Numeroentero1> Numeroentero2:
-   print(Numeroentero1+Numeroentero2)
-if Numeroentero1<Numeroentero2:
-   print(Numeroentero1*Numeroentero2)
+    print(número1+número2)
+print(número1<número2)
+if número1<número2:
+    print(número1*número2)
