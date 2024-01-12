@@ -1,8 +1,1 @@
-número1= float(input("escribe un número entero"))
-número2= float(input("escribe otro número entero"))
-print(número1>número2)
-if número1>número2:
-    print(número1+número2)
-print(número1<número2)
-if número1<número2:
-    print(número1*número2)
+
