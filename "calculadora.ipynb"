@@ -1,2 +1,0 @@
-número1= float(input("escribe un número"))
-número2= float(input("escribe otro número"))
